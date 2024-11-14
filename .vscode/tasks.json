@@ -4,7 +4,7 @@
 			{
 					"type": "cppbuild",
 					"label": "C/C++: gcc.exe build active file",
-					"command": "C:\\MinGW\\bin\\gcc.exe",
+					"command": "C:\\mingw64\\bin\\gcc.exe",
 					"args": [
 							"-g",
 							"-Wall",
@@ -21,7 +21,7 @@
 							"isDefault": true
 					}
 			},
-			{
+			{		
 					"label": "execute",
 					"command": "cmd",
 					"group": "test",
