@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 4,
+  "[c]": {
+      "editor.defaultFormatter": "ms-vscode.cpptools",
+      "editor.tabSize": 4
+  },
+  "terminal.integrated.env.windows": {
+      "LANG": "ko_KR.UTF-8"
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.shellArgs.windows": ["/K", "chcp 65001"],
+  "files.autoGuessEncoding": true,
+  "terminal.integrated.automationShell.windows": "cmd.exe"
+}
